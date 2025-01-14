@@ -1,0 +1,14 @@
+# Ignore environment files
+.env
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore backup directories
+backups/
+
+# Ignore Excel and Word files if they should not be tracked (optional)
+TournamentData.xlsx
+TournamentData.json
+TournamentData.docx
